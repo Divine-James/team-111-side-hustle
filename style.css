@@ -95,7 +95,7 @@ nav .logo img {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
-  padding-top: 5rem;
+  padding-top: 15rem;
 }
 .features-section .box {
   display: grid;
